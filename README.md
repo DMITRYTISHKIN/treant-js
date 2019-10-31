@@ -8,7 +8,7 @@ Simply add your params to config by follow example:
 ```
 chart: {
   container: "#tree-simple",
-  templateRef:      // Add your node template
+  nodeTemplate:      // Add your node templateRef
   viewContainerRef: // and ViewContainerRef object
   ...
 },
