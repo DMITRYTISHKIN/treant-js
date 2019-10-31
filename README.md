@@ -18,4 +18,4 @@ chart: {
 >It relies on Raphael for handling SVG and animations.
 
 Leave complaints and suggestions:
-https://github.com/DMITRYTISHKIN/treant-js
+https://github.com/DMITRYTISHKIN/treant-ng

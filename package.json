@@ -1,6 +1,6 @@
 {
   "name": "treant-ng",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular library for visualization of tree diagrams",
   "main": "Treant.js",
   "directories": {
