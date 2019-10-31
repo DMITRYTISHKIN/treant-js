@@ -1,7 +1,7 @@
 {
-  "name": "treantjs",
+  "name": "treant-ng",
   "version": "1.0.0",
-  "description": "JavaScipt library for visualization of tree diagrams",
+  "description": "Angular library for visualization of tree diagrams",
   "main": "Treant.js",
   "directories": {
     "example": "examples"
@@ -15,6 +15,13 @@
   },
   "keywords": [
     "treant",
+    "angular",
+    "ng",
+    "ngx",
+    "ngx-treant",
+    "treant-ng",
+    "viewContainerRef",
+    "ng-template",
     "diagram",
     "tree",
     "js",

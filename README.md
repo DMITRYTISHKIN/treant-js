@@ -1,16 +1,21 @@
-<pre>
-  _______                   _          _     
- |__   __|                 | |        (_)    
-    | |_ __ ___  __ _ _ __ | |_ ______ _ ___ 
-    | | '__/ _ \/ _` | '_ \| __|______| / __|
-    | | | |  __/ (_| | | | | |_       | \__ \
-    |_|_|  \___|\__,_|_| |_|\__|      | |___/
-                                     _/ |    
-                                    |__/     
-</pre>
+# Treant-ng
 
-Treant-js is an SVG based JS library for drawing tree diagrams.
-It relies on Raphael for handling SVG and animations.
+Angular Wrapper for treant-js library.
 
-For Docs, Examples, and everything else see:
-http://fperucic.github.io/treant-js
+Added opportunity for provide "templateRef" and "viewContainerRef" for nodes.
+
+Simply add your params to config by follow example:
+```
+chart: {
+  container: "#tree-simple",
+  templateRef:      // Add your node template
+  viewContainerRef: // and ViewContainerRef object
+  ...
+},
+```
+
+>Treant-js is an SVG based JS library for drawing tree diagrams.
+>It relies on Raphael for handling SVG and animations.
+
+Leave complaints and suggestions:
+https://github.com/DMITRYTISHKIN/treant-js
